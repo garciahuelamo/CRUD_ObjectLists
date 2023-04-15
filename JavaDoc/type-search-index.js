@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Controlador"},{"p":"<Unnamed>","l":"ListaVideojuegos"},{"p":"<Unnamed>","l":"MetodosCRUDObjectList"},{"p":"<Unnamed>","l":"Utilidades"},{"p":"<Unnamed>","l":"Videojuegos"}];updateSearchResults();
