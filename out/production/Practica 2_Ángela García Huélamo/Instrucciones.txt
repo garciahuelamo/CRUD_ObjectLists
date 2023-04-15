@@ -1,0 +1,52 @@
+Realizaremos la mismas funcionalidades que en la primera práctica.
+
+En este caso modificaremos la práctica para que:
+
+Se use POO, es necesario realizar las clases y llamar a las funcionalidades mediante métodos de los objetos creados.
+Se utilizarán ArrayList para realizar el almacenamiento de los datos, concretamente ArrayList de objetos, por ejemplo si el tema fuese cine; ArrayList<Pelicula> misPelis;
+No hay limitación de 20 películas.
+
+
+Se debe entregar un ENLACE a un vídeo demostrando que funcionan las características pedidas. Máximo 5 minutos. Si no aparece cada prueba claramente explicada se interpretará que no funciona. Después de realizar las pruebas debes comentar un poco el código realizado, de manera técnica y breve. Se debe escuchar claramente tu voz.
+
+
+
+Se entregará un ZIP con el nombre practica2_TuNombre.zip
+
+
+
+Se penaliza:
+
+No usar POO.
+
+Realizar la gestión en la clase ejecutable.
+
+Código desordenado, no comentado, obsoleto o mal tabulado.
+
+No usar métodos.
+
+Usar malas prácticas explicadas en clase.
+
+-Sentencias de interrupción
+
+-Variables declaradas fuera de la zona declarativa
+
+-Nombres poco explicativos
+
+...
+
+
+
+Se valora positivamente:
+
+-Métodos reutilizables
+
+-Usar métodos en clases externas, tipo Utilidades.
+
+
+
+Es un trabajo individual, no se permite la colaboración entre alumnos. La copia se penaliza con el suspenso automático en la convocatoria de la asignatura completa. Si usas código externo debes documentarlo y poner la referencia de dónde sale, en cualquier caso si es excesivo se considerará copia. Se considera copia el uso de cualquier ayuda o programa que genere código de manera automática.
+
+
+
+En caso de duda, es posible que se cite a algunos autores a realizar una defensa en vivo de la práctica. La defensa es evaluable.
